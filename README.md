@@ -1,7 +1,7 @@
 # Projeto Imersão
 ## Projeto de Imersão da Aula 04/05 - Alura/Google
 
-Sistema de busca do melhor jogo do ano!
+### Sistema de busca do melhor jogo do ano!
 
 Um projeto feito para a Imersão IA 2ª Edição.
 
